@@ -7,3 +7,4 @@
 * [2. 基本操作](getting-started/README.md)
   * [資料維護](getting-started/data-maintenance.md)
   * [報表操作](getting-started/output-report.md)
+* [3. 視頻](movie/README.md)

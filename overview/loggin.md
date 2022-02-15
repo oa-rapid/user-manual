@@ -4,8 +4,6 @@
 
 ![oaClient.exe 意示圖▲](../assets/oaclient.png)
 
-###### oaClient.exe 意示圖▲
-
 ### 二 . 點擊右上的 [未登入] 按鈕，會出現登入視窗
 
 1. 輸入用戶編號、密碼、驗證碼
